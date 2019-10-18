@@ -1,1 +1,2 @@
-# GANs
+# Generative Adversarial Networks
+
